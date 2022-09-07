@@ -1,0 +1,51 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.contact-jumbotron {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#medium-btn {
+    border-color: #383838;
+    color: #383838;
+}
+
+#medium-btn:hover {
+    background-color: #383838;
+    color: #ffffff;
+}
+
+h1 {
+    color: black;
+    font-weight: bolder;
+    position: relative;
+    text-align: left;
+    font-size: 2.8rem;
+    font-family: "Poppins", sans-serif;
+}
+
+.contact-name {
+    display: block;
+    text-align: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-family: "Roboto", sans-serif;
+    color: var(--light-heading);
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.625em;
+}
+
+.divider {
+    width: 30%;
+    position: relative;
+    border-top: 5px solid var(--special-font);
+  }
+
+.jumbotron {
+    background-color: #ffffff;
+}
